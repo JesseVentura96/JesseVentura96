@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JesseVentura96
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning Python, SQL, Tablue
+- 🌱 I’m currently learning Python, SQL, and Rstudio
 - 📫 Email: Jesseventura96@yahoo.com
 
 <!---
